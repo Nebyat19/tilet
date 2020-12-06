@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home{
+   
+    height: 100%;
+   width: 100%;
+   background-image: linear-gradient(rgba(252, 141, 141, 0.4),rgba(250, 153, 153, 0.4)),url(love.jpg);
+    background-position: center;
+    background-size: cover; 
+    position: absolute;
+    background-color: rgb(156, 156, 23);
+    
+   }
+   .text{width: 300px;
+    height: 400px;
+    position: relative;
+    margin: 6% auto;
+    background: none;
+    padding: 75px;
+  font-size:70px;
+  color: brown;
+    overflow: hidden;
+    
+   }
